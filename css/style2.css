@@ -1,0 +1,14 @@
+.img_pre{
+   margin-top: 0px;
+    
+}
+.block_info{
+     padding: 50px;;
+}
+
+.nav a{
+   
+    display: flex;
+    align-items: center;
+     color:black;
+}
