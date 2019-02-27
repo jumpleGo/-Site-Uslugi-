@@ -239,7 +239,7 @@
 	<script>
 		function move() {
 			$(".ul").animate({
-				top: "-=35px"
+				top: "+=35px"
 			}, function() {
 				$(".slide1>ul>li:first").appendTo('.ul');
 				$(".ul").css("top", "");
